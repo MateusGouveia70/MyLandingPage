@@ -1,0 +1,128 @@
+
+.texto h1, .texto p{
+    text-align: center;
+    color: var(--font-white);
+}
+
+.texto{
+    padding-top: 100px;
+}
+
+.texto p{
+    padding: 1rem 0;
+}
+
+.read-more a{
+    padding: 1rem 2rem;
+    border: 1px solid #666;
+}
+
+.read-more a:hover{
+    background-color: var(--font-white);
+    color: var(--font-black);
+}
+
+
+.container .black-font{
+    text-align: center;
+    padding: 1rem 0;
+    color: var(--font-black);
+}
+
+.container .content-text{
+    
+    color: var(--font-black);
+    
+}
+
+.web-text{
+    padding: 35px 0;
+}
+
+
+.images{
+    height: 520px;
+    padding: 18px 35px;
+    background-color: var(--font-black);
+
+}
+
+.boxes {
+    justify-content: space-between;
+}
+
+.option-box{
+    width: 32%;
+    min-height: 482px;
+    background: var(--font-white);
+}
+
+.option-box img{
+    width: 100%;
+}
+
+.option-box .text {
+    text-align: center;
+    padding: 20px;
+}
+
+.digital-needs {
+    padding: 50px 0;
+}
+
+.digital-needs .text {
+    text-align: center;
+}
+
+.digital-needs h2 {
+    padding: 40px 0;
+}
+
+.contact{
+    width: 100%;
+}
+
+.contact .flex > div{
+    min-height: 280px;
+}
+
+.box1{
+    width: 50%;
+    padding: 0 17.5px;
+    background-color: var(--font-blue);
+}
+
+.box2{
+    width: 50%;
+    padding: 0 17.5px;
+    background-color: var(--font-black);
+}
+
+.text-box{
+    text-align: center;
+    color: var(--font-white);
+    padding: 50px 0;
+}
+
+.project-by{
+    min-height: 98px;
+    background-color: var(--font-blackblack);
+    color: var(--font-white);
+}
+
+.last-text{
+    justify-content: space-between;
+    
+}
+
+.last-text a{
+    color: #2690d4;
+}
+
+.text1 p{
+    margin-top: 15px;
+}
+
+.text2 p{
+    margin-top: 15px;
+}

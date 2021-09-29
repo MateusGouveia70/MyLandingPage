@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+    color: var(--font-white);
+}
+
+.bg-main{
+    background-image: url(/img/pexels-photo-248515.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat; 
+    height: 450px;   
+}
+
+.container {
+    width: 80%;
+    max-width: 828px;
+    margin: 0 auto;
+}
+
+:root{
+    --font-white: #FFF;
+    --font-black: #333333;
+    --font-blue: #2690D4;
+    --font-blackblack: #000000;
+}
+
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p{
+    padding: 1rem 0;
+    line-height: 1.5;
+    
+}
